@@ -16,6 +16,6 @@ The objective of this project is to develop a predictive model that accurately e
  
 # Prediction
 - **These help you measure your model’s accuracy**:
- - If SSE, MSE, or RMSE are low, it means your model is predicting house prices well.
- - If they’re high, the model is making bigger mistakes.
+    - If SSE, MSE, or RMSE are low, it means your model is predicting house prices well.
+    - If they’re high, the model is making bigger mistakes.
 
