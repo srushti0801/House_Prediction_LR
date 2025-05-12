@@ -15,7 +15,7 @@ The objective of this project is to develop a predictive model that accurately e
    - Root Mean Squared Error (RMSE)
  
 # Prediction
-- These help you measure your model’s accuracy:
+- **These help you measure your model’s accuracy**:
  - If SSE, MSE, or RMSE are low, it means your model is predicting house prices well.
  - If they’re high, the model is making bigger mistakes.
 
